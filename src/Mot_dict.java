@@ -1,4 +1,4 @@
-public class Mon_dict {
+public class Mot_dict {
 	private String mot;
 	private String definition;
 	
